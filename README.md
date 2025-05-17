@@ -1,4 +1,8 @@
-# SR-FLIPFLOP-USING-CASE
+# EX 6 - SR FLIPFLOP USING CASE
+
+### Developed by: HARSHITHA V
+### RegisterNumber: 212223230074
+
 
 **AIM:**
 
@@ -65,18 +69,16 @@ end
 endmodule
 ```
 
-
-![de exp 6 pr](https://github.com/user-attachments/assets/2f60e69f-d994-41f0-915a-639a7ce1800b)
-
-
 **RTL LOGIC FOR FLIPFLOPS**
 
-![de exp 6 rtl](https://github.com/user-attachments/assets/ebc6c35c-b97c-4475-a5d6-b47fce84230a)
+![image](https://github.com/user-attachments/assets/18a4dc4f-6ee0-4d7b-bf2b-c19e69fcc336)
+
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![de exp 6 wd](https://github.com/user-attachments/assets/dd2f3e5e-e749-4fe9-a46c-1b3834c0cb31)
+![image](https://github.com/user-attachments/assets/02d053f4-b032-4bb3-9c90-fc9b30a0ffdb)
+
 
 
 **RESULTS**
